@@ -5,8 +5,8 @@ import Modal from '@material-ui/core/Modal';
 import Backdrop from '@material-ui/core/Backdrop';
 import Fade from '@material-ui/core/Fade';
 import Button from '@material-ui/core/button'
-import Tab from '@material-ui/core/tab'
-import Tabs from '@material-ui/core/tabs'
+import {Tab} from '@material-ui/core/tab'
+import {Tabs} from '@material-ui/core/tabs'
 import { useState } from 'react';
 import Login  from './Login';
 import Signup from './Signup';
